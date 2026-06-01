@@ -5,6 +5,9 @@
 ## Volume pluviometrico total do estado de Alagoas
 ---
 
+![Volume Total AL](Volume_Pluviometrico_Total_AL.png)
+
+
 
 ---
 ## Volume pluviometrico médio do estado de Alagoas no mês de Janeiro
