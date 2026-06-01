@@ -1,42 +1,51 @@
-# Analise-de-dados-pluviometricos-
-
-
----
-## Volume pluviometrico total do estado de Alagoas
----
-
-![Volume Total AL](Volume_Pluviometrico_Total_AL.png)
-
-
+# Análise de Dados Pluviométricos do Estado de Alagoas
 
 ---
-## Volume pluviometrico médio do estado de Alagoas no mês de Janeiro
----
 
+## Volume Pluviométrico Total do Estado de Alagoas
 
----
-## Municipio com maior Indice pluviometrico e Municipio com menor indice pluviometrico
----
-
+![Volume Total AL](Imagens/Volume_Pluviometrico_Total_AL.png)
 
 ---
-## Grafico de linhas continuas do volume pluviometrico anual do municipio de Colonia Leopoldina
----
 
+## Volume Pluviométrico Médio do Estado de Alagoas no Mês de Janeiro
 
----
-## Gráfico de barra horizontal Exibindo os 5 municipios com os maiores indices pluviometricos
----
-
+![Volume Médio Janeiro](Imagens/Volume_medio_AL_Janeiro.png)
 
 ---
-## Graficos de barras dos meses de Janeiro, Junho e Novembro
+
+## Município com Maior e Menor Índice Pluviométrico
+
+![Maior e Menor Pluviometria](Imagens/Municipio_Maior_Menor_Pluviometria.png)
+
 ---
 
+## Volume Pluviométrico Anual do Município de Colônia Leopoldina
+
+![Volume Anual](Imagens/Volume_Anual_Colonia.png)
 
 ---
-## Grafico Interativo
+
+## Cinco Municípios com os Maiores Índices Pluviométricos
+
+![Top Municípios](Imagens/Top_Municipios_Maiores_indices.png)
+
 ---
 
+## Comparação dos Meses de Janeiro, Junho e Novembro
 
+![5 Municípios em 3 Meses](Imagens/5_muncipios_3_Meses.png)
 
+---
+
+## Gráfico Interativo
+
+![Gráfico Interativo](Imagens/Grafico_interativo.png)
+
+---
+
+## Resumo Estatístico dos Dados Pluviométricos
+
+![Resumo Pluviométrico](Imagens/Resumo_Pluviometrico.png)
+
+---
